@@ -1,16 +1,44 @@
-## Hi there 👋
+# Site de Recettes de Cuisine
 
-<!--
-**Victor-grv/Victor-grv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ce projet est un site web qui présente plusieurs recettes de cuisine.
 
-Here are some ideas to get you started:
+## Description
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Le site présente plusieurs recettes de cuisine, dont :
+
+- Oeufs mimosa
+- Salade César
+- Magrets de cannar au miel
+- Pizza pepperoni
+- Tarte aux pommes
+- Mousse au chocolat
+
+Chaque recette contient :
+- Une liste d’ingrédients
+- Les étapes de préparation
+- Une photo du plat
+- Une vidéo pour préparer le plat
+
+Le site est entièrement réalisé en HTML et CSS sans JavaScript.
+
+## Utilité
+
+Ce site peut être utilisé pour :
+
+- Apprendre à bien cuisiner
+- Suivre les préparations simples avec des vidéos à l’appui
+- Référence personnelle pour des recettes simples à réaliser
+
+## Technologies utilisées
+
+- HTML
+- CSS
+
+## Auteur
+
+Projet réalisé par Belouard Killiann et Granvallet Victor
+
+
+## Site
+
+recettes.42web.io
